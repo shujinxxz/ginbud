@@ -460,9 +460,9 @@
 
             <div class="letter-card fade">
 
-                <p>
-                   <i><b>To my beloved ginbuddy,</b></i>
-                </p>
+                <h2 style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-weight: bold; font-size: 1.3rem; margin-bottom: 30px;">
+    To my beloved ginbuddy,
+                </h2>
 
                 <p>
                     Kumusta? Hope u doing good there, kung sain na lupalop ka man. Di man natin nakuha ang result na pinagdarasal natin, please know na proud na proud ako saimo, boi. Ika na baga an. Katibay mo ta u bravely took that exam kahit na kinakabahan ka and full of doubts sa sadiri mo. Duman pa sana, panalo na ta dai ka nagsuko. Congrats, engineer!
