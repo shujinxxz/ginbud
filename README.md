@@ -460,7 +460,7 @@
 
             <div class="letter-card fade">
 
-                <h2 style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-weight: bold; font-size: 1.3rem; margin-bottom: 30px;">
+                <h2 style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-weight: bold; font-size: 1rem; margin-bottom: 30px;">
     To my beloved ginbuddy,
                 </h2>
 
