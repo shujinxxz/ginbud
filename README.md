@@ -461,7 +461,7 @@
             <div class="letter-card fade">
 
                 <p>
-                   <i>To my beloved ginbuddy,</i>
+                   <i><b>To my beloved ginbuddy,</b></i>
                 </p>
 
                 <p>
@@ -485,7 +485,7 @@
                 </p>
 
                 <p class="signature">
-                    engr. bogs :)
+                    <b>engr. bogs :)</b>
                 </p>
 
             </div>
