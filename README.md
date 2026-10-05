@@ -461,7 +461,7 @@
             <div class="letter-card fade">
 
                 <p>
-                    To my beloved ginbuddy,
+                   <i>To my beloved ginbuddy,</i>
                 </p>
 
                 <p>
